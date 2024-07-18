@@ -4,6 +4,7 @@ Dataset from: https://www.kaggle.com/datasets/patjob/sales-cycle-cohort-data/dat
 
 Description:
 Theres 5 column: ID (as text), lead, phase2, phase3, closed (as date)
+
 Data is worth a year (365 days) of transaction.
 
 Objectives:
